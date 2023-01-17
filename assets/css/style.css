@@ -1,0 +1,21 @@
+/* 
+font-family: 'Chakra Petch', sans-serif;
+font-family: 'Work Sans', sans-serif; */
+
+@font-face {
+    font-family: 'Chakra Petch Medium';
+    src: url(../fonts/Chakra_Petch/ChakraPetch-Medium.ttf);
+}
+
+@font-face{
+    font-family: 'Work Sans';
+    src: url(../fonts/Work_Sans/WorkSans-VariableFont_wght.ttf);
+}
+
+.logoFont{
+    font-family: 'Chakra Petch Medium', sans-serif;
+}
+
+.fontWork{
+    font-family: 'Work Sans', sans-serif;
+}
